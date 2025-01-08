@@ -1,8 +1,3 @@
-# Configuring Drivers on Linux
-
-## Download the SDK to the home directory.
-
-### https://dev.intelrealsense.com/docs/compiling-librealsense-for-linux-ubuntu-guide
 
 ### Here begins
 ![alt text](note/start.png)
